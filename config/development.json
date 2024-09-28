@@ -1,0 +1,6 @@
+{
+    "nombre": "Api rest Express - Desarrollo",
+    "ConfigDB": {
+        "host": "prueba-db-server"
+    }
+}
